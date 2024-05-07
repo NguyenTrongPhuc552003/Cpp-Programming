@@ -1,0 +1,3 @@
+BTB37: Nhập vào một mảng có n phần tử, xuất ra mảng ban đầu (ký tự cách \t)
+cho biết tổng của các phần tử trong mảng là bao nhiêu
+tất cả phương thức xử lý đều áp dụng kỹ thuật đệ quy.

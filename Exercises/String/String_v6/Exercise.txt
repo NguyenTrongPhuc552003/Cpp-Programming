@@ -1,0 +1,8 @@
+BTB33: Nhập vào một chuỗi số dạng chữ biểu diễn một phép tính logic cơ bản (cộng, trừ, nhân, chia)
+đối số nhập vào không lớn hơn 100, không phân biệt chữ hoa chữ thường
+khi dữ liệu đầu vào không thỏa mãn thì yêu cầu nhập lại
+=> Xử lý chuỗi đầu vào và tính toán cho ra kết quả dưới dạng sau:
+Input: muoi tam nhan nam
+Output: Ket qua xu ly:
+Bang chu: Muoi Tam Nhan Nam Bang Chin Muoi.
+Bang so: 18 x 5 = 90.

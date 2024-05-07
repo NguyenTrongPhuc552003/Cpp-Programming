@@ -1,0 +1,3 @@
+C:/Users/Trong_Phuc/OneDrive_VNU-HCMUS/Documents/JetBrains Tools/Clion/Cpp projects/Exercises/Dynamic Memory/Review/cmake-build-debug/CMakeFiles/Review.dir
+C:/Users/Trong_Phuc/OneDrive_VNU-HCMUS/Documents/JetBrains Tools/Clion/Cpp projects/Exercises/Dynamic Memory/Review/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Trong_Phuc/OneDrive_VNU-HCMUS/Documents/JetBrains Tools/Clion/Cpp projects/Exercises/Dynamic Memory/Review/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Data_Structure",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Data_Structure::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Data_Structure-Debug-02f1fef81d6ec61d9347.json",
+					"name" : "Data_Structure",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Trong_Phuc/OneDrive - VNU-HCMUS/Documents/Clion/Cpp projects/Lessons/Data Structure/cmake-build-debug",
+		"source" : "C:/Users/Trong_Phuc/OneDrive - VNU-HCMUS/Documents/Clion/Cpp projects/Lessons/Data Structure"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

@@ -1,0 +1,2 @@
+BT/ Nhap vao mot mang co kieu du lie vector, hay them/xoa mot so luong phan tu nhat dinh.
+Xuat ra kich thuoc mang sau khi xu li

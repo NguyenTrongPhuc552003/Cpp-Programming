@@ -1,0 +1,4 @@
+Nhập vào một mảng có n phần tử
+- Yêu cầu người dùng nhập số lượng phần tử cần chèn
+- Yêu cầu người dùng chọn nhập đầu mảng hay cuối mảng
+- Xuất ra màn hình mảng ban đầu và mảng đã chèn (Biểu diễn mảng dạng hàng ngang).

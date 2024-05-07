@@ -1,0 +1,3 @@
+C:/Users/Trong_Phuc/OneDrive_VNU-HCMUS/Documents/JetBrains_Tools/Clion/Cpp projects/Exercises/OOP/OOP_v8/cmake-build-debug/CMakeFiles/OOP_v8.dir
+C:/Users/Trong_Phuc/OneDrive_VNU-HCMUS/Documents/JetBrains_Tools/Clion/Cpp projects/Exercises/OOP/OOP_v8/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Trong_Phuc/OneDrive_VNU-HCMUS/Documents/JetBrains_Tools/Clion/Cpp projects/Exercises/OOP/OOP_v8/cmake-build-debug/CMakeFiles/rebuild_cache.dir

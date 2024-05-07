@@ -1,0 +1,9 @@
+CNTT_CSN_B71_C++_OV_v2_1: Tạo một cấu trúc dữ liệu mảng tĩnh có chứa dữ liệu, hãy chuyển đổi
+dữ liệu sang dạng mảng động (vector, deque v..v) và ngược lại.
+
+CNTT_CSN_B71_C++_OV_v2_2: Hãy lấy một ví dụ về việc ứng dụng tham chiếu vào trong việc xử lý
+dữ liệu khi viết chương trình.
+
+CNTT_CSN_B71_C++_OV_v2_3: Hãy lấy một ví dụ về việc cấp phát bộ nhớ động mang lại hiệu quả
+hơn cấp phát tĩnh (stack) khi xử lý dữ liệu trong chương trình,  *** NGOẠI TRỪ việc có thể
+khai báo số lượng phần tử bằng tham số.

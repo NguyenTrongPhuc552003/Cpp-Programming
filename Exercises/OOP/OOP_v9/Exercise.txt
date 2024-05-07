@@ -1,0 +1,12 @@
+CNTT_CN_B34_01: Tạo 2 class NguoiQuanLi và class ThuVien, hãy xây dựng
+chương trình nhập xuất các thông tin sau:
+
++ Tên thư viện.
++ Địa chỉ.
++ Mã thư viện (Gồm 4 chữ số nhập ngẫu nhiên).
++ Số lượng sách đang lưu trữ.
+
++ Họ và Tên người quản lí.
++ ID của người quản lí (Gồm 4 chữ số nhập ngẫu nhiên).
++ Địa chỉ của người quản lí.
++ Số điện thoại của người quản lí

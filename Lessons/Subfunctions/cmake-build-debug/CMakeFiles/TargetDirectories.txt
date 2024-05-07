@@ -1,0 +1,3 @@
+C:/Users/TrongPhuc/OneDrive - VNU-HCMUS/Documents/Clion/Cpp projects/Subfunctions/cmake-build-debug/CMakeFiles/Subfunctions.dir
+C:/Users/TrongPhuc/OneDrive - VNU-HCMUS/Documents/Clion/Cpp projects/Subfunctions/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/TrongPhuc/OneDrive - VNU-HCMUS/Documents/Clion/Cpp projects/Subfunctions/cmake-build-debug/CMakeFiles/rebuild_cache.dir

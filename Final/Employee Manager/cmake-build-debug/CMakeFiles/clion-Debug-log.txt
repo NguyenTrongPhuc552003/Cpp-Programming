@@ -1,0 +1,4 @@
+C:\Users\Trong_Phuc\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/Trong_Phuc/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S "C:\Users\Trong_Phuc\OneDrive_VNU-HCMUS\Documents\JetBrains_Tools\Clion\Cpp projects\Final\Employee Manager" -B "C:\Users\Trong_Phuc\OneDrive_VNU-HCMUS\Documents\JetBrains_Tools\Clion\Cpp projects\Final\Employee Manager\cmake-build-debug"
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/Trong_Phuc/OneDrive_VNU-HCMUS/Documents/JetBrains_Tools/Clion/Cpp projects/Final/Employee Manager/cmake-build-debug

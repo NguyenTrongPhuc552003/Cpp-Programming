@@ -1,0 +1,18 @@
+                             >> SINH VIEN THU 1 <<
+HO VA TEN:           Nguyen Trong Phuc
+NGAY THANG NAM SINH: 05/05/2003
+GIOI TINH:           Nam
+KHOA:                Dien tu Vien thong
+DIEM GPA:            3.14
+                             >> SINH VIEN THU 2 <<
+HO VA TEN:           Ngo Thi Ngoc Anh
+NGAY THANG NAM SINH: 04/03/2003
+GIOI TINH:           Nu
+KHOA:                Tieng Anh
+DIEM GPA:            3.63
+                             >> SINH VIEN THU 3 <<
+HO VA TEN:           Test
+NGAY THANG NAM SINH: 01/01/2000
+GIOI TINH:           Nam
+KHOA:                Toan Tin
+DIEM GPA:            3.20

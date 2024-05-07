@@ -1,0 +1,20 @@
+BTDSLK_C++: Viết chương trình sử dụng danh sách liên kết khởi tạo và quản lý các trường (field)
+dữ liệu để quản lý thông tin cá nhân của sinh viên, bao gồm một số thông tin cơ bản như:
++ MSSV: (Tự tạo theo quy tắc tùy chọn)
++ Họ và Tên:
++ Giới tính:
++ Ngày Sinh:
++ Địa Chỉ: => khoi tao them
++ Lớp:
++ Khoa: => truy xuat thong tin
+…
+Ở giao diện chính (Giao diện khi khởi chạy chương trình) yêu cầu tạo 2 tùy chọn truy cập
+bao gồm khởi tạo thông tin và truy xuất thông tin của sinh viên thông qua mã số sinh viên
+được cấp khi khởi tạo thông tin thành công.
+* UPDATE:
+- Sap xep thong tin cac sinh vien theo ten (not ho va ten), sau do xuat ra man hinh Console
+- Them tuy chon xuat thong tin sinh vien ra man hinh Console
+- Xuat thong tin sinh vien theo mot truong du lieu co dinh
+- Them cac truong du lieu moi vao chuong trinh (khoa, he dao tao ...) => khoi tao mssv tu dong
+Vd:    21          20          7       197
+    Nien khoa  Code Nganh  He dao tao  STT

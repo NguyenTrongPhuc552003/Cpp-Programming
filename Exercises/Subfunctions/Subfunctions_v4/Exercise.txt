@@ -1,0 +1,10 @@
+BT: Nhập vào ngày, tháng, năm của ngày hôm nay
+=> xuất ra màn hình ngày, tháng, năm của ngày mai (dd/mm/yyyy).
+* Phat trien them:
+BT_TEST: Nhập vào ngày sinh nhật của bạn và nhập vào ngày hôm nay, hãy cho biết,
+- ngày sinh của bạn là thứ mấy
+- hôm nay là thứ mấy
+- kể từ ngày sinh của bạn tới thời điểm hiện tại đã được bao nhiêu ngày.
+
+05/05/2003 -> today (T6, 17/02/2023):
+

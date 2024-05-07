@@ -1,0 +1,3 @@
+BTB07: Viết chương trình nhập vào mảng có 10 số
+- kiểm tra trong mảng vừa nhập có bao nhiêu số nguyên tố
+- đó là những số nào (liệt kê theo hàng ngang).

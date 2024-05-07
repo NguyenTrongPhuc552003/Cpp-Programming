@@ -1,0 +1,19 @@
+//    #: variable name / cpp: getline(cin, #), #.length() or #.size() - c: gets(#), puts(#), strlen(char #)
+
+//    #.begin() => sometimes we need this
+//    cout << "\nDo dai ten cua ban: " << hoten.length(); // or "hoten.size()"
+//    #.insert(index, "abc") => thay doi chuoi ban dau
+//    #.push_back('a') => chen ky tu vao vi tri cuoi cung trong chuoi
+//    #.pop_back() => xoa ky tu cuoi cung trong chuoi (khong phai \0), nguoc lai voi push_back
+//    #.substr(index_begin, so ky tu can lay) => khong thay doi chuoi ban dau (neu chi co 1 tham so, function tu dong lay tu vi tri da chon - toi vi tri cuoi cung)
+//    cout << "abc" << hoten.erase(0, 6);
+//    #.back() => ky tu cuoi cung trong chuoi (hoac ta co the viet thanh #.back = 'a' => thay doi ky tu cuoi cung trong chuoi)
+//    hoten.front() = 'a'; // => nguoc lai voi #.back
+//    #.copy(diemdich, soluong, index) or #.copy(diemdich, soluong)
+//    strlen(#) => do dai cua chuoi
+//    #.empty() => chuoi co du lieu (1), nguoc lai (0)
+//    #.replace(index, soluong, "abc") => thay the chuoi # tai vi tri index thanh "abc"
+//    #.find("abc") => tra ve index cua "abc" / or #.find("abc", index_findToEnd), nguoc lai tra ve undefined value
+//    SIZE_MAX => tra ve gia tri lon nhat cua size_t
+
+//    size_t #; => kieu du lieu tuy bien (OUT int => long, OUT long => long long, ...)

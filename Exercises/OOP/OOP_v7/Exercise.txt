@@ -1,0 +1,3 @@
+BTCNB18: Viết chương trình cấu trúc tính toán n phân số (dạng tử/mẫu)(+,-,*,/) và
+thực hiện nạp chồng toán tử để đưa về dạng chương trình tiêu chuẩn ( sử dụng cin, cout , + v..v)
+=> Xuất ra kết quả là phân số đã tối giản

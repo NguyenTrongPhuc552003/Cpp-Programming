@@ -1,0 +1,4 @@
+BTB22:
+- Nhập vào một ký tự, kiểm tra ký tự đó có phải ký tự Alphabet hay không. 
+- Nhập vào một chuỗi, kiểm tra trong chuỗi đó có bao nhiêu nguyên âm và phụ âm
+=> nguyên âm bao gồm các ký tự sau : u, e, o, a, i, và dạng in hoa của nó (U, E, O, A, I).

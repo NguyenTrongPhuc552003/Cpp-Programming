@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Increment_and_Decrement_operators",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Increment_and_Decrement_operators::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Increment_and_Decrement_operators-Debug-c86553763fb79b31ba73.json",
+					"name" : "Increment_and_Decrement_operators",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/TrongPhuc/OneDrive - VNU-HCMUS/Documents/Clion/Cpp projects/Exercises/Increment and Decrement operators/cmake-build-debug",
+		"source" : "C:/Users/TrongPhuc/OneDrive - VNU-HCMUS/Documents/Clion/Cpp projects/Exercises/Increment and Decrement operators"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

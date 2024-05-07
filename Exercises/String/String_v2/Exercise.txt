@@ -1,0 +1,3 @@
+BTB23: Nhập vào họ và tên
+- Xuất ra họ, tên đệm và tên
+- Cho biết mỗi phần có bao nhiêu ký tự

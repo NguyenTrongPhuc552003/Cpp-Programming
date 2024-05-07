@@ -1,0 +1,1 @@
+BT14: Nhập vào một số n, liệt kê tất cả các số nguyên tố nhỏ hơn n, sử dụng kỹ thuật lập trình hàm.

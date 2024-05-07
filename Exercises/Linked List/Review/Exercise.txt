@@ -1,0 +1,6 @@
+CNTT_CSN_B79_01: Viết 2 chương trình duyệt một danh sách liên kết đơn / đôi chứa
+n phân số (Dữ liệu tự nhập) và cho biết:
++ Các node trong danh sách liên kết này có chứa toàn phân số dương hay không, nếu
+không hãy cho biết có bao nhiêu phân số âm trong danh sách.
++ Hãy cho biết phân số nào có giá trị lớn nhất, phân số nào có giá trị nhỏ nhất
+trong danh sách.

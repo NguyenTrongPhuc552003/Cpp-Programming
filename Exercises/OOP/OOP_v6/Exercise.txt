@@ -1,0 +1,11 @@
+/*Struct - Operator Overloading Ex:
+* Tạo một cấu trúc quản lý sinh viên với hai thông tin họ và tên, mã số sinh viên,
+nạp chồng toán tử nhập xuất để object có thể hoạt động được với cin và cout.
+* Ví dụ:
+* SV sv1;
+* cin >> sv1 (Nhap vao ho va ten: ...
+              Nhap vao ma so sinh vien: ... ).
+* cout << sv1 (                  THONG TIN SINH VIEN
+*                   Ho va ten:        ............................
+*                   Ma So Sinh Vien:  ............................ ).
+*/

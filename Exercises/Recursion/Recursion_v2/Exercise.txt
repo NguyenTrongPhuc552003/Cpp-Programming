@@ -1,0 +1,3 @@
+BTB36: Nhập vào hai số nguyên dương a và b cho biết ước chung
+lớn nhất và bội chung nhỏ nhất của hai số nguyên dương này
+=> Sử dụng kỹ thuật đệ quy.

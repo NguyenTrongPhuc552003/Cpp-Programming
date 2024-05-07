@@ -1,0 +1,2 @@
+Hãy tạo hàm đệ quy đảo ngược các giá trị từ 1 đến 1,000,000,
+nếu như chạm mốc chia hết cho 1000 hãy phát ra âm thanh cảnh báo trên máy tính. ('\a')

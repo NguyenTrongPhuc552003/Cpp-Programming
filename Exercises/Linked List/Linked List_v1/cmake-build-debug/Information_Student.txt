@@ -1,0 +1,3 @@
+                           THONG TIN SINH VIEN
+MSSV     | HO VA TEN         | GIOI TINH (0 - NAM / !0 - NU) | NGAY SINH  | LOP
+21207197 | Nguyen Trong Phuc | 0                             | 05/05/2003 | 21ELC_CLC3 

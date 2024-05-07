@@ -1,0 +1,2 @@
+Nhập vào một mảng có n phần tử, sử dụng kỹ thuật truyền tham chiếu, con trỏ lên hàm.
+Hãy trả về số có trị tuyệt đối lớn nhất trong mảng.

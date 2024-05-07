@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Dynamic_Memory",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Dynamic_Memory::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Dynamic_Memory-Debug-b2d4c3e6c1062bd45063.json",
+					"name" : "Dynamic_Memory",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Trong_Phuc/OneDrive_VNU-HCMUS/Documents/JetBrains Tools/Clion/Cpp projects/Lessons/Dynamic Memory/cmake-build-debug",
+		"source" : "C:/Users/Trong_Phuc/OneDrive_VNU-HCMUS/Documents/JetBrains Tools/Clion/Cpp projects/Lessons/Dynamic Memory"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

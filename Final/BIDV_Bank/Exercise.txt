@@ -1,0 +1,17 @@
+BTL05B: Viết chương trình tính toán số tiền phải chi trả khi gửi tiết kiệm tại ngân hàng BIDV với lãi suất được tham chiếu
+với kỳ hạn 12 tháng, ngày tham chiếu: 03/01/2023.
+* Yêu cầu: Nhập vào thông tin của người gửi tiết kiệm, bao gồm:
+- Mã CIF: 4 chữ số ngẫu nhiên được tạo bởi chương trình.
+    + Họ và Tên:
+    + Số Căn Cước Công Dân:
+- Ngày gửi tiền:
+- Số tiền gửi:
+* Sau khi nhập thành công số tiền gửi, hệ thống sẽ trả về các thông tin sau:
+- Mã CIF của khách hàng.
+    + Họ và tên.
+    + Số Căn Cước Công Dân.
+- Số tài khoản: 5 chữ số ngẫu nhiên được tạo.
+- Ngày gửi tiền.
+=> Khi người dùng chọn tra cứu tiền lãi, hệ thống yêu cầu nhập 1 trong 2 thông tin là mã CIF của khách hàng hoặc nhập số tài khoản để tra cứu,
+sau đó nhập vào ngày tra cứu, hãy tính và in ra số tiền thực nhận vào ngày đáo hạn (Do người dùng nhập vào, ở phần Quản lý tài khoản),
+giả sử hình thức tiết kiệm tại ngân hàng này là lãi kép, tiền lãi sẽ được quyết toán vào tài khoản gốc theo ngày.

@@ -1,0 +1,3 @@
+BT01: Viết chương trình nhập vào số tuổi của bạn thoả mãn điều kiện tuổi lớn hơn 0 và nhỏ hơn 100, 
+trong đó: Độ tuổi từ 0 - 18, 18-60, 60 -100 xuất ra màn hình các kết quả lần lượt là, thiếu niên, trung niên, cao tuổi, 
+nếu giá trị nhập vào nhỏ hơn 0 và lớn hơn 100 yêu cầu nhập lại cho tới khi thoả mãn.

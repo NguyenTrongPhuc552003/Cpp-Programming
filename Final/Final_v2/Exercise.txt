@@ -1,0 +1,14 @@
+BTL: CHƯƠNG TRÌNH XỬ LÝ CHUỖI SỐ.
+ Nhập vào một mảng số nguyên, kết thúc bởi dấu “.”, cho biết:
+1.	Xuất ra mảng ban đầu đã nhập ( dùng ký tự “\t” để phân tách phần tử).
+2.	Mảng vừa nhập có bao nhiêu phần tử.
+3.	Sắp xếp mảng theo thứ tự tăng dần.
+4.	Tách mảng vừa nhập thành 2 mảng âm và dương, cho biết mỗi mảng có bao nhiêu phần tử.
+5.	Phần tử nào là phần tử lớn nhất, nhỏ nhất trong mảng.
+6.	Có bao nhiêu số chính phương trong mảng vừa nhập, đó là những số nào
+7.	Có bao nhiêu số nguyên tố trong mảng vừa nhập, đó là những số nào.
+8.	Có bao nhiêu phần tử trong mảng có tần suất xuất hiện lớn hơn 1 lần, đó là những phần tử nào.
+9.	Phần tử nào là phần tử có tần suất xuất hiện nhiều nhất trong mảng.
+10.	Xuất ra một mảng mới tần suất xuất hiện của các phần tử trong mảng chỉ là 1
+(xóa đi các phần tử có tần suất xuất hiện lớn hơn 1, chỉ giữ lại 1 phần tử).
+Cho biết mảng mới vừa xuất có bao nhiêu phần tử.

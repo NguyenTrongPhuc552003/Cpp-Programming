@@ -1,0 +1,11 @@
+CNTT_CN_B29_01: Bằng kỹ thuật lập trình hướng đối tượng, hãy viết chương trình thêm
+và xem thông tin cơ bản của sinh viên (Họ và Tên, Ngày Tháng Năm sinh, Giới Tính, Khoa
+và GPA). Định dạng sử dụng “iomanip” và ghi dữ liệu ra file, khi mở chương trình và
+sử dụng tùy chọn “Xem thông tin sinh viên đã lưu” hãy in ra màn hình tất cả thông tin
+của sinh viên đã nhập trước đó, lưu ý chương trình được viết phải tuân thủ đúng kỹ
+
+CNTT_CN_B30_01: Phát triển từ chương trình ở bài CNTT_CN_B29_01, hãy phát triển thêm
+tính toán GPA cho 5 môn học (Quy định theo dạng môn học 1, môn học 2, môn học 3 v..v)
+mỗi môn đều có cùng số tín chỉ như nhau và bằng phương pháp “Nạp chồng toán tử” hãy
+thiết kế tính năng tính điểm trung bình cho các sinh viên có tên trong danh sách, GPA
+là kết quả được làm tròn để chỉ có 2 chữ số ở phần thập phân.

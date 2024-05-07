@@ -1,0 +1,5 @@
+BTB35: Nhập vào số nguyên dương n
+=> In ra màn hình số đảo ngược của số n bằng phương pháp đệ quy.
+Demo:
+- Input: 647459242
+- Output: 242954746

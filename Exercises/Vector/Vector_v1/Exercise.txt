@@ -1,0 +1,2 @@
+BTB55: Nhập vào một mảng có n phần tử bằng vector, sắp xếp các phần tử theo thứ tự tăng dần,
+tìm và xuất các số chính phương, số nguyên tố ra một vector riêng, sau đó loại bỏ chúng khỏi mảng gốc.

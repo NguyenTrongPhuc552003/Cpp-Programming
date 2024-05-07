@@ -1,0 +1,6 @@
+BTB57: Nhập dữ liệu một mảng vector sau đó hãy cho biết:
+- Có bao nhiêu phần tử trong mảng có tần suất xuất hiện lớn hơn 1 lần, đó là những phần tử nào.
+- Phần tử nào là phần tử có tần suất xuất hiện nhiều nhất trong mảng.
+- Xuất ra một mảng mới tần suất xuất hiện của các phần tử trong mảng chỉ là 1 (xóa đi các phần tử
+có tần suất xuất hiện lớn hơn 1, chỉ giữ lại 1 phần tử).
+=> Cho biết mảng mới vừa xuất có bao nhiêu phần tử.

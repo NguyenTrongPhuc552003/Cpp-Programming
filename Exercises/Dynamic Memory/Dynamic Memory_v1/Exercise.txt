@@ -1,0 +1,2 @@
+CNTT_CSN_B72_MI_1_B01: Viết HÀM nhập xuất một mảng có n phần tử
+sử dụng cấp phát động (Core <C>(malloc,calloc..) || C++ (new...)).

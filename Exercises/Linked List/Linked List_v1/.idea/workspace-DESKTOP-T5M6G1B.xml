@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="Linked_List_v1" targetName="Linked_List_v1" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ba16110c-da49-4921-bcba-787c1704e2d2" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="3.2" />
+  </component>
+  <component name="ProjectId" id="2MivrVJE8cE0tdurJLW2ktXP8Dv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "full.screen.before.presentation.mode": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Trong_Phuc/OneDrive_VNU-HCMUS/Documents/Clion/Cpp projects/Exercises/Linked List/Linked List_v2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "CPPToolchains",
+    "structure.view.defaults.are.configured": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Linked_List_v1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="true" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Linked_List_v1" TARGET_NAME="Linked_List_v1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Linked_List_v1" RUN_TARGET_NAME="Linked_List_v1">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba16110c-da49-4921-bcba-787c1704e2d2" name="Changes" comment="" />
+      <created>1678263416135</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678263416135</updated>
+      <workItem from="1678263417871" duration="114000" />
+      <workItem from="1678271294697" duration="82000" />
+      <workItem from="1678372345607" duration="1912000" />
+      <workItem from="1678536089660" duration="883000" />
+      <workItem from="1678540960431" duration="9518000" />
+      <workItem from="1678621484675" duration="6557000" />
+      <workItem from="1678774554783" duration="6080000" />
+      <workItem from="1679315370184" duration="3370000" />
+      <workItem from="1679320321141" duration="53000" />
+      <workItem from="1679374817204" duration="1697000" />
+      <workItem from="1679493742554" duration="3763000" />
+      <workItem from="1679542346321" duration="5809000" />
+      <workItem from="1679552472296" duration="10704000" />
+      <workItem from="1679757697368" duration="2667000" />
+      <workItem from="1679797366311" duration="16000" />
+      <workItem from="1680078703471" duration="18309000" />
+      <workItem from="1680105118694" duration="185000" />
+      <workItem from="1680105314946" duration="4424000" />
+      <workItem from="1680148400237" duration="438000" />
+      <workItem from="1680405502208" duration="5822000" />
+      <workItem from="1680442151473" duration="1444000" />
+      <workItem from="1680504450708" duration="2482000" />
+      <workItem from="1680507943423" duration="9134000" />
+      <workItem from="1680524646527" duration="8772000" />
+      <workItem from="1680539352562" duration="1623000" />
+      <workItem from="1680541871584" duration="6000" />
+      <workItem from="1680541896012" duration="872000" />
+      <workItem from="1680615323035" duration="112000" />
+      <workItem from="1680977653146" duration="330000" />
+      <workItem from="1680977996414" duration="727000" />
+      <workItem from="1681053848981" duration="820000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

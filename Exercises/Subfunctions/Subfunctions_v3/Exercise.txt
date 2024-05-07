@@ -1,0 +1,12 @@
+BT15: Nhập vào điểm Toán, Văn, Anh, Lý, Hóa và Sinh.
+Tính Điểm Trung Bình của 6 môn, sau đó in ra màn hình điểm trung bình
+Xếp loại theo cách quy đổi sau:
+-[0 - 5.0):   F
+-[5.0 - 6.5): D
+-[6.5 – 8.0): C
+-[8.0 - 9.0): B
+-[9.0 - 10]:  A
++ Nếu điểm trung bình trên 5.0 nhưng một trong 2 môn Toán hoặc Văn dưới 5.0 vẫn đạt điểm F.
++ Cho biết bao nhiêu môn chưa đạt yêu cầu (5.0).
++ Hệ số của 2 môn Toán và Văn là 2.
+* Các giá trị nằm ngoài khoảng này đều không chấp nhận và yêu cầu nhập lại khi không thỏa mãn.

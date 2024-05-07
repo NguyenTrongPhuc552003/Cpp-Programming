@@ -1,0 +1,9 @@
+# ninja log v5
+6	1445	7353745730654729	CMakeFiles/Employee_Manager.dir/main.cpp.obj	63d35f54d89ee42e
+1557	1834	7353745734172461	Employee_Manager.exe	489ec5bf05028af0
+101	1286	7353737340725387	CMakeFiles/Employee_Manager.dir/sources/DaysoffMonth.cpp.obj	77e6fb756b2bef42
+21	1466	7353745730850519	CMakeFiles/Employee_Manager.dir/sources/Resume.cpp.obj	b4a654b29906f576
+23	348	7353746456886914	build.ninja	26542de0a001bc16
+14	1557	7353745731745940	CMakeFiles/Employee_Manager.dir/sources/Employee.cpp.obj	461cb056b36d5e66
+86	1305	7353737340918002	CMakeFiles/Employee_Manager.dir/sources/Timekeeping.cpp.obj	72d6c16793b3dff5
+29	1486	7353745731078325	CMakeFiles/Employee_Manager.dir/sources/Storage.cpp.obj	154e966a59a4d742

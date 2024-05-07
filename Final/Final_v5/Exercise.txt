@@ -1,0 +1,19 @@
+BTL5: Tạo một cấu trúc struct với các thuộc tính id (dạng int 4 chữ số ngẫu nhiên),
+tên sách, ngày nhập sách (dạng dd/mm/yyyy), tác giả, trạng thái (dạng bool) (Có sẵn, Không có sẵn),
+yêu cầu người dùng nhập dữ liệu sách bao gồm, id tên sách (duy nhất), ngày nhập, tác giả và trạng thái, tạo ra
+menu các yêu xử lý:
+- In ra thông tin của sách đang lưu trữ (có thể không có sẵn).
+- Tìm sách theo tên, id, ngày nhập, tác giả.
+- Sắp xếp sách với id tăng dần, ngày nhập sách từ cũ nhất đến mới nhất, trạng thái (trạng thái có sẵn ưu tiên hiển thị trước).
+
+date_softing:
+	book[i].datein: 05/05/2003, 29/09/2003, 01/01/2002
+	- Data: string (##/##/####)
+	- Xet nam nho nhat => tren cung (uu tien)
+	- Neu nam sinh bi trung => xet thang
+	- Xet ngay tuong tu
+
+CNTT_CSN_B80_01: Từ dự án “Quản lý Thư Viện” đã làm, hãy thiết kế thêm tính năng tạo tài khoản người dùng bao gồm các thông tin
+sau: Họ và tên, Ngày Tháng Năm Sinh, Nghề nghiệp, Địa chỉ, Nơi công tác, Mật khẩu phải đạt đủ các tiêu chí sau: Có ít nhất một
+ký tự in hoa, ít nhất một ký tự số và ký tự đặc biệt, sau khi tạo tài khoản thành công hãy in ra thông tin của người dùng và in
+kèm ID định danh tài khoản gồm 6 số được tạo bởi bộ sinh số ngẫu nhiên trong C++.

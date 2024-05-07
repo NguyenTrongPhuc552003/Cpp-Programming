@@ -1,0 +1,3 @@
+BTB60: Một bàn cờ caro (15 x 15) được đánh vị trí như hình đính kèm, yêu cầu người dùng nhập dữ liệu vào
+theo từng lượt đánh, đảm bảo sau khi kết thúc nhập liệu thì số nước cờ của 2 quân (X,O) đều bằng nhau,
+mã hóa dữ liệu và xuất dữ liệu đã mã hóa ra file (.txt).

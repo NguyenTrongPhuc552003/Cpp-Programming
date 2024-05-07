@@ -1,0 +1,3 @@
+BTB25: Nhập vào họ và tên
+- Cho các tùy chọn thêm và xóa (chỉnh sửa) các phần tử: họ, tên đệm, tên
+- Xuất ra tên ban đầu và tên đã xử lý.

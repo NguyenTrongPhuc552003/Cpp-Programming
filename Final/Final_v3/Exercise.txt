@@ -1,0 +1,9 @@
+BTL3: Nhập vào một chuỗi nhiều tên cách nhau bởi dấu cách ‘ ’
+- các tên trong chuỗi chỉ được xuất hiện đúng một lần,
+- sau đó nhập một tên bất kỳ (có thể có hoặc không có trong chuỗi tên vừa nhập)
+- tất cả các ký tự đều phải thuộc dạng Alphabet, không chứa ký tự dạng số, ký tự đặc biệt v..v
+(nếu không thỏa mãn các điều kiện đề ra thì yêu cầu nhập lại cả chuỗi)
+
+=> Kiểm tra tên đã nhập xuất hiện ở vị trí tên thứ mấy trong chuỗi tên vừa nhập
+=> Nếu có thì cho các tùy chọn thêm tên mới liền sau tên vừa nhập, xóa hoặc thay thế tên trong chuỗi
+=> Xuất ra chuỗi ban đầu và chuỗi mới sau khi đã xử lý.

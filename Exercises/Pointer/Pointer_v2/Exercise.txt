@@ -1,0 +1,2 @@
+Nhập vào 2 biến a và b bất kỳ, viết hàm kiểm tra điều kiện giá trị tuyệt đối của số a có lớn hơn số b
+hay không, nếu thỏa mãn thì thực hiện đổi giá trị cho nhau giữa 2 biến a và b sử dụng hàm tham chiếu hoặc con trỏ

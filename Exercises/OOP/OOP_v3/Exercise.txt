@@ -1,0 +1,3 @@
+BTCNB10: Tạo một header chứa các phương thức / hàm xử lý:
+-	Phép cộng 2 phân số, có kiểu dữ liệu là int, float,
+-	Swap (đổi chỗ) dữ liệu của 2 biến chứa dữ liệu bất kỳ, có kiểu dữ liệu là int, float và string.

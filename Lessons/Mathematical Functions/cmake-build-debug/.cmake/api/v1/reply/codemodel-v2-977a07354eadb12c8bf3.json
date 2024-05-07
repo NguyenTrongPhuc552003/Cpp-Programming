@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Mathematical_Functions",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Mathematical_Functions::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Mathematical_Functions-Debug-b5492802ce8837a4a51f.json",
+					"name" : "Mathematical_Functions",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/TrongPhuc/OneDrive - VNU-HCMUS/Documents/Clion/Cpp projects/Mathematical Functions/cmake-build-debug",
+		"source" : "C:/Users/TrongPhuc/OneDrive - VNU-HCMUS/Documents/Clion/Cpp projects/Mathematical Functions"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

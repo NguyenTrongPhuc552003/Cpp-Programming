@@ -1,0 +1,4 @@
+BTB38: Nhập vào một mảng có n phần tử. Hãy sắp xếp các phần tử trong mảng theo thứ tự tăng dần.
+Hãy cho biết phần tử nào trong mảng xuất hiện nhiều nhất và xuất hiện bao nhiêu lần
+(Nếu có sự trùng lặp thì xuất ra phần tử có giá trị lớn nhất)
+=> Lưu ý: Tất cả các phương thức xử lý đều sử dụng kỹ thuật đệ quy.

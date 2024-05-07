@@ -1,0 +1,3 @@
+CNTT_CSN_B75_MA_B01: Viết chương trình tạo kiểu dữ liệu tự định nghĩa my_array
+Trong đó, hãy viết các hàm có tính năng tương tự như kiểu dữ liệu vector
+(push_back, pop_back(), …) một số chi tiết sẽ được cập nhập sau buổi học.

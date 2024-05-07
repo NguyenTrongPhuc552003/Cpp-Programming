@@ -1,0 +1,5 @@
+BTB08: Nhập vào mảng có n phần tử
+- Sắp xếp mảng theo thứ tự tăng dần
+- Kiểm tra phần tử nào xuất hiện nhiều nhất trong mảng và xuất hiện bao nhiêu lần
+- Nếu có 2 phần từ xuất hiện nhiều nhất với số lần như nhau thì ưu tiên xuất ra
+  màn hình phần tử có giá trị nhỏ hơn.

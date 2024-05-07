@@ -1,0 +1,1 @@
+BTB48: Viết hàm nhập xuất mảng, sử dụng con trỏ.

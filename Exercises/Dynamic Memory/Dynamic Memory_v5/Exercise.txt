@@ -1,0 +1,4 @@
+CNTT_CSN_B83_01: Bằng cách sử dụng các lệnh xử lý bộ nhớ, hãy xây dựng lại chức năng của các hàm xử lý chuỗi dưới đây:
++ stlen(...): trả về độ dài của chuỗi.
++ stcat(char *dest, char *src): ghép chuỗi src vào chuỗi dest.
++ stcpy(char *dest, char *src): chồng chuỗi src vào chuỗi dest.

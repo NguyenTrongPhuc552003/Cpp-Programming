@@ -1,0 +1,25 @@
+BTL4: Nhập vào một chuỗi thông tin bao gồm họ và tên, ngày tháng năm sinh, lớp, khoa và trường trên cùng một chuỗi
+=> Có thể không theo thứ tự, tách ra từng phần theo mẫu bên dưới:
+- Ho va Ten
+- Ngay thang nam sinh
+- Lop
+- Khoa
+- Truong
+
+* Yêu cầu: Trước khi nhập mỗi thành phần đều phải nhập vào label nhận biết, ví dụ trước khi nhập tên phải ghi Ho va Ten v..v
+Nếu phần tử nào thiếu thì yêu cầu nhập lại, ngày tháng năm sinh phải ở dạng dd/mm/yyyy. Không đối chiếu ký tự hoa, thường (ví dụ n và N là như nhau),
+tên, trường và khoa không được chứa số.
+Những label nhận biết (không phân biệt ký tự thường hay hoa):
+- Ho va Ten
+- Ngay thang nam sinh
+- Khoa
+- Truong
+(Thiếu bất kỳ label nào thì báo thiếu và yêu cầu nhập lại.)
+
+Demo Input: Ho va ten vo Hoang NAM truong dai hoc Khoa Hoc TU NHIEN TP HCM lop 21DVT CLC3 khoa dien tu Vien thong ngay thang nam sinh 16/10/2003.
+Demo Output:
+- Ho Va Ten: Vo Hoang Nam
+- Ngay Thang Nam Sinh: 16/10/2003
+- Lop: 21DTV CLC3
+- Khoa: Dien Tu Vien Thong
+- Truong: Dai Hoc Khoa Hoc Tu Nhien TP HCM

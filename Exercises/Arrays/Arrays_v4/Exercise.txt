@@ -1,0 +1,3 @@
+BTB10: Nhập vào mảng có n phần tử
+- Xóa một số phần tử bất kỳ trong mảng
+- Xuất ra mảng ban đầu và mảng đã xóa

@@ -1,0 +1,15 @@
+BTOOP: Thiết kế phần mềm chấm điểm và quản lý thông tin, điểm thi cho kỳ thi THPT QG năm 2023. Yêu cầu:
+- Họ và tên thí sinh.
+- Ngày tháng năm sinh.
+- Số báo danh. (63TN8416) => truy xuat ra Cum thi, To hop thi
+- Cụm thi. (Tỉnh/ Thành Phố)
+- Tổ hợp thi. (KHTN/KHXH).
+    + KHTN: Toan, Van, Anh, Ly, Hoa, Sinh
+    + KHXH: Toan, Van, Anh, Su, Dia, GDCD
+- Diem khoi thi:
+    + A00: Toan, Ly, Hoa => KHTN
+    + B00: Toan, Hoa, Sinh => KHTN
+    + C00: Van, Su, Dia => KHXH
+    + D01: Toan, Van, Anh
+Nhập vào số câu đúng của từng môn, (Giới hạn số câu được khảo sát theo thực tế). Xuất ra thông tin cá nhân,
+điểm của từng môn, từng khối, và điểm trung bình của thí sinh.

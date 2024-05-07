@@ -1,0 +1,23 @@
+CNTT-CN-B34: Sử dụng kỹ thuật lập trình hướng đối tượng, hãy tạo một chương
+trình cho phép đăng nhập và đăng ký thông tin bao gồm các thông tin dưới đây:
+
++ username (Không được trùng trong cơ sở dữ liệu). (*)
++ địa chỉ email. (Tuân theo quy tắc của địa chỉ email hiện tại.). (**)
++ mật khẩu (Yêu cầu ít nhất 1 ký tự In hoa, một ký tự số và một ký tự đặc biệt) (*)
++ Mã Số Sinh Viên.
++ Họ và Tên.
++ Lớp.
++ Khoa.
++ Trường.
+
+Khi đăng nhập thành công, tạo tùy chọn tìm kiếm thông tin theo Mã Số Sinh Viên,
+cho phép xuất ra màn hình các thông tin đã nhập khớp với thông tin mã số sinh
+viên đã nhập, hoặc tùy chọn xuất ra tất cả thông tin trong cơ sở dữ liệu, thông
+tin xuất ra được được định dạng bởi thư viện “iomanip” nhưng không được xuất ra
+tên đăng nhập, mật khẩu và địa chỉ email, thông tin xuất ra phải được chuẩn hóa
+ở dạng tiêu chuẩn (***). Sử dụng quy trình đọc ghi file dành cho C++ để không
+bị mất dữ liệu sau mỗi phiên khởi tạo lại chương trình.
+
+(*) Thông tin sử dụng để đăng nhập.
+(**) Nhập một trong hai thông tin là địa chỉ email hoặc username để đăng nhập.
+(***) Ví dụ tên phải ở dạng viết hoa chữ cái đầu tiên trong mỗi từ.

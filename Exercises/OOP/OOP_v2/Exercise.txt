@@ -1,0 +1,5 @@
+BTCNB09: Nhập vào một chuỗi tên, hãy viết header chứa hàm xử lý chuỗi tên sang 3 dạng:
+- Tất cả đều là ký tự thường,
+- Tất cả đều là ký tự hoa,
+- Chỉ chữ đầu Tiên của mỗi tên là ký tự hoa,
+=> Không sử dụng hàm tolower, toupper, không tham khảo các giá trị quy đổi của bảng mã ASCII.

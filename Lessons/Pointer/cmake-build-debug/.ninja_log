@@ -1,0 +1,7 @@
+# ninja log v5
+4	353	6954832580603078	CMakeFiles/Pointer.dir/main.cpp.obj	46d1eb590424e658
+353	444	6954832581486349	Pointer.exe	9da089dcea7f51b
+9	527	7219803323918263	CMakeFiles/Pointer.dir/libs/Shape.cpp.obj	10cbd4506fd51959
+13	528	7219803323918263	CMakeFiles/Pointer.dir/libs/Rectangle.cpp.obj	7defd54d1408be43
+2	754	7219803326190823	CMakeFiles/Pointer.dir/main.cpp.obj	a637b10eb3d559e6
+754	991	7219803328435113	Pointer.exe	ead3d97740f173fe

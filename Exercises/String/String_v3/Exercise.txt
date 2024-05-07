@@ -1,0 +1,14 @@
+BTB24: Nhập vào một chuỗi nhiều tên cách nhau bởi dấu cách ‘ ’, sau đó nhập một tên bất kỳ (có thể có hoặc không có trong chuỗi tên vừa nhập)
+=> Tất cả các ký tự đều phải viết ở dạng thường và đều phải thuộc dạng Alphabet
+(Nếu là dạng ký tự hoa hoặc dạng số, ký tự đặc biệt v..v thì yêu cầu nhập lại cả chuỗi)
+-	Kiểm tra trong chuỗi nhiều tên vừa nhập có tên đã nhập sau hay không.
+-	Nếu có thì tên đó là tên thứ mấy trong chuỗi.
+
+* Ví dụ:
+- Input 1: phuc phong kiet manh phung nam
+- Input 2:
+    + TH1: phong
+    => Output: phong co trong chuoi ten vua nhap.
+	           Vi tri cua phong trong chuoi ten vua nhap la vi tri thu 2.
+	+ TH2: abc
+	=> Output: chuoi ban vua nhap gom co: ...

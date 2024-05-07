@@ -1,0 +1,5 @@
+Viet chuong trinh ATM cap san trong TK nguoi dung 1tr VND
+- Neu nguoi dung rut tien lon hon 1tr => Chuyen qua giao dien nap tien
+- Truy van so du TK
+- Yeu cau ng dung nhap vao so tien la boi so cua 50k, in ra so tien toi thieu (1 lan rut toi da: 5tr VND)
+- Doc / Xuat ra man hinh so tien bang chu

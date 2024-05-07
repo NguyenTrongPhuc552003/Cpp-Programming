@@ -1,0 +1,5 @@
+CNTT_CSN_B78_01: Viết chương trình thêm và xem thông tin cơ bản của sinh viên
+(Họ và Tên, Ngày Tháng Năm sinh, Giới Tính, Khoa, Trường). Định dạng sử dụng “iomanip”,
+sử dụng cấp phát động (ngôn ngữ C) và ghi dữ liệu ra file, khi mở chương trình và
+sử dụng tùy chọn “Xem thông tin sinh viên đã lưu” hãy in ra màn hình tất cả thông tin
+của sinh viên đã nhập trước đó.

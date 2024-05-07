@@ -1,0 +1,5 @@
+BTB18: Nhập vào một mảng có n phần tử
+- Hiện ra màn hình các tùy chọn (thêm phần tử, xóa phần tử) tại vị trí bất kỳ
+- Số lượng phần tử được quy định bởi người dùng
+- Sử dụng kỹ thuật lâp trình hàm.
+Lưu ý: In ra mảng ban đầu và mảng đã xử lý.

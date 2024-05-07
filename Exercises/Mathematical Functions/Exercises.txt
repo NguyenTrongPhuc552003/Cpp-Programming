@@ -1,0 +1,4 @@
+Nhap vao 3 canh a, b, c.
+- Kiem tra tam giac nay co phai la tam giac vuong hay khong?
+- Neu co tinh S, P, sin, cos, tan, cot
+- Neu ko phai tam giac vuong yeu cau nhap lai

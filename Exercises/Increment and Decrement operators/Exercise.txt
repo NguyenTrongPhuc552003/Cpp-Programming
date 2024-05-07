@@ -1,0 +1,2 @@
+BT1: Cho số nguyên dương n. Kiểm tra số nguyên dương n có phải là số
+chính phương hay không?

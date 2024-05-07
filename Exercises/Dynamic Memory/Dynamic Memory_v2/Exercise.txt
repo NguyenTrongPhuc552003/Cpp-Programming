@@ -1,0 +1,2 @@
+CNTT_CSN_B74_MA_B01: Viết chương trình thêm thông tin sinh viên đơn giản sử dụng
+cấp phát động với số lượng bộ nhớ được cấp trước cho mỗi phần tử (sinh viên) là 2.
