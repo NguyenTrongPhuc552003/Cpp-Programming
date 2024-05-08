@@ -34,7 +34,7 @@ To use the code examples and exercises in this repository, follow these steps:
 
 2. Navigate to the cloned directory:
 
-   '''bash
+   ```bash
    cd Cpp-Programming
 
 3. Explore the directories and files containing the code examples and exercises.
